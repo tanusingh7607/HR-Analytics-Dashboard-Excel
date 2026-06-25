@@ -43,6 +43,16 @@ The dashboard helps analyze workforce performance, employee satisfaction, engage
 - Average Work-Life Balance
 - Total Training Cost
 
+## Dashboard Preview
+
+### Full Dashboard
+
+![Dashboard](dashboard_full.png)
+
+### Filtered Dashboard
+
+![Filtered Dashboard](dashboard_filtered.png)  
+
 ## Author
 
 Tanu Singh
